@@ -6,4 +6,4 @@ https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html#
 
 https://petewarden.com/2016/09/27/tensorflow-for-mobile-poets/
 
-My project uses only two classification classes (roses and daisies). This was done seeign the limited computaiton power I had using my laptop.
+My project uses only two classification classes (roses and daisies). This was done as I had limited computation power.
