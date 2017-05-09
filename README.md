@@ -22,8 +22,6 @@ My project uses only two classification classes (roses and daisies). This was do
 
 ## Screenshot 4 - Detects Daisy
 
-![Alt text](/IMG_5453.PNG "Optional title")
-
 <img src="https://github.com/adityamehra/Flower-Classification/blob/master/IMG_5453.PNG" width="360" height="640">
 
 ## Screenshot 5 - Detects Daisy
